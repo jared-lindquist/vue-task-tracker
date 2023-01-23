@@ -9,7 +9,7 @@
     {
       "text": "eat all the chicken wings",
       "day": "Jan 22nd at 2:00pm",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
