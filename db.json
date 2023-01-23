@@ -17,6 +17,12 @@
       "day": "Jan 22nd at 2:00pm",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "add this to github",
+      "day": "Monday 1/23 at 9am",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
