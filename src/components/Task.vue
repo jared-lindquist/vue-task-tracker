@@ -11,8 +11,6 @@
 </template>
 
 <script>
-import { emit } from 'process';
-
     export default {
         name: 'Task',
         props: {
@@ -21,7 +19,7 @@ import { emit } from 'process';
     }
 </script>
 
-<style >
+<style scope>
 .fas {
     color: red;
 }
