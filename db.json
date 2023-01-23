@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "doctors appointment",
-      "day": "March 1st at 2:30pm",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "grocery shopping",
       "day": "March 3rd at 11:00am",
